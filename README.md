@@ -2,7 +2,7 @@
 ## preview<br>
 ## Links &#127882;<br>
 <ul>
-<li>Live Site URL : <a href="https://0xabdul.github.io/Team-Profile-Card/">Click Here</a></li>
+<li>Live Site URL : <a href="https://0xabdul.github.io/Donuts-Website...-/">Click Here</a></li>
 </ul><br>
 
 
@@ -22,7 +22,7 @@
 <ul>
   <li>praticed more about Media Queries</li>
   <li>more about page transistion</li>
-  <li>paratice about Transistion</li>
+  <li>paratice about libraries</li>
   </ul><br>
   
   
